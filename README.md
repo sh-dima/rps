@@ -14,6 +14,13 @@ Features
 * Auto-play mode
 * Keyboard support
 
+Links
+-----
+
+* [Website](https://sh-dima.github.io/rps/)
+* [GitLab](https://gitlab.com/shdima/rps)
+* [GitHub](https://github.com/sh-dima/rps)
+
 License
 -------
 
